@@ -1,0 +1,40 @@
+38
+Iceland Norway Sweden Finland Russia Estonia Latvia Lithuania Belarus Ukraine Poland Slovakia Romania Bulgaria Turkey Greece Albania North_Macedonia Serbia Montenegro Bosnia_and_Herzegowina Hungary Croatia Slovenia Austria Czech_Republic Ireland United_Kingdom Denmark Germany Netherlands Italy Switzerland Belgium Luxembourg France Spain Portugal
+0
+3 Sweden Finland Russia
+3 Norway Finland Denmark
+3 Norway Sweden Russia
+6 Norway Finland Estonia Latvia Belarus Ukraine
+2 Russia Latvia
+4 Estonia Russia Belarus Lithuania
+3 Latvia Poland Belarus
+5 Lithuania Latvia Russia Ukraine Poland
+6 Hungary Slovakia Poland Belarus Russia Romania
+6 Germany Lithuania Belarus Ukraine Slovakia Czech_Republic
+5 Czech_Republic Poland Ukraine Hungary Austria
+5 Hungary Ukraine Bulgaria Serbia North_Macedonia
+5 North_Macedonia Serbia Romania Turkey Greece
+2 Bulgaria Greece
+4 Albania North_Macedonia Bulgaria Turkey
+4 Montenegro Serbia North_Macedonia Greece
+4 Albania Serbia Bulgaria Greece
+8 North_Macedonia Albania Montenegro Bosnia_and_Herzegowina Croatia Hungary Romania Bulgaria
+3 Bosnia_and_Herzegowina Serbia Albania
+3 Croatia Serbia Montenegro
+7 Serbia Croatia Slovenia Austria Slovakia Ukraine Romania 
+4 Bosnia_and_Herzegowina Serbia Hungary Slovenia
+4 Italy Austria Hungary Croatia
+7 Italy Switzerland Germany Czech_Republic Slovakia Hungary Slovenia
+4 Austria Germany Poland Slovakia
+1 United_Kingdom
+1 Ireland
+2 Germany Sweden
+9 Luxembourg Belgium Netherlands Denmark Poland Czech_Republic Austria Switzerland France
+2 Belgium Germany
+4 France Switzerland Austria Slovenia
+4 France Germany Austria Italy
+4 France Netherlands Germany Luxembourg
+3 France Belgium Germany
+6 Spain Belgium Luxembourg Germany Switzerland Italy
+2 France Portugal
+1 Spain

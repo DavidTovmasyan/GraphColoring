@@ -1,0 +1,10 @@
+Hello! Welcome to the map coloring tool v1.0
+
+Please enter the input values in this form in the file "Map" :
+ 
+[number of countries (N)]
+[country0] [country1]  ... [country(N-1)]
+[number of neighbours of country0 (M)] [neighbour0] [neighbour1] ...[neighbour(M-1)]
+[number of neighbours of country1 (L)] [neighbour0] [neighbour1] ...[neighbour(L-1)]
+.....
+[number of neighbours of country(N-1) (K)] [neighbour0] [neighbour1] ...[neighbour(K-1)]

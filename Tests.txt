@@ -1,0 +1,52 @@
+Test 0
+
+5
+Armenia Georgia Azerb Turkey Russia
+3 Georgia Azerb Turkey
+4 Armenia Azerb Turkey Russia
+3 Armenia Georgia Russia
+2 Armenia Georgia
+2 Georgia Azerb
+
+Test 1
+
+7
+Russia
+Kazakhstan
+Mongolia
+China
+North_Korea
+South_Korea
+Japan
+4 Kazakhstan Mongolia China Japan
+2 Russia China
+2 Russia China
+4 Kazakhstan Mongolia Russia North_Korea
+2 China South_Korea
+1 North_Korea
+1 Russia
+
+Test 2
+
+2
+Armenia America
+0
+0
+
+Test 3
+
+10
+Brazil Paraguay Uruguay Argentina Bolivia Peru Ecuador Colombia Venezuela Guyana
+7 Guyana Venezuela Colombia Peru Bolivia Paraguay Uruguay
+3 Brazil Argentina Bolivia
+2 Brazil Argentina
+4 Bolivia Brazil Paraguay Uruguay
+4 Argentina Peru Brazil Paraguay
+4 Bolivia Brazil Colombia Ecuador
+2 Peru Colombia
+4 Ecuador Peru Brazil Venezuela
+3 Colombia Brazil Guyana
+2 Venezuela Brazil
+
+
+
